@@ -1,0 +1,4 @@
+[core]
+    remote = data
+['remote "data"']
+    url = gs://mlops-airflow-42/dvcstore
